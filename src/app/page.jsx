@@ -105,10 +105,7 @@ export default function Home() {
       <section className="relative min-h-[700px] overflow-hidden bg-[#0d0e16]">
 
   <div className="mx-auto flex min-h-[700px] max-w-[1220px] items-center px-8">
-
-    {/* ================================
-        TEXTO - LADO ESQUERDO
-    ================================= */}
+    
 
     <div className="relative z-30 w-full lg:w-1/2">
 
